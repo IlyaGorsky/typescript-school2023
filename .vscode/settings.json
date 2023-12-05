@@ -1,0 +1,4 @@
+{
+  "cSpell.words": ["дженериков", "hhid", "hhuid"],
+  "typescript.tsdk": "node_modules/typescript/lib"
+}

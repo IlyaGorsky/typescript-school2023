@@ -1,0 +1,11 @@
+{
+  "name": "ts-school-2023",
+  "version": "1.0.0",
+  "description": "Поговорим о типизации и как она устроена и о каких важных характеристиках нужно знать.",
+  "main": "index.js",
+  "author": "Ilya Gorsky",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.9.4"
+  }
+}
